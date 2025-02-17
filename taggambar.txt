@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
-    />
-    <script type="module" src="scripts.js"></script>
-    <title>Tierlist Maker</title>
-  </head>
-  <body>
-    <h1>Tierlist Maker [click me to add or the gear]</h1>
-
-    <div class="tiers container"></div>
-
-    <div class="cards container">
+    Masukkin di card container buat ganti2
+    
+    
       <img src="assets/b27/Yudhis.jpg" alt="Yudhis" />
       <img src="assets/b27/Yoga.jpg" alt="Yoga" />
       <img src="assets/b27/Censaka.jpg" alt="Censaka" />
@@ -52,6 +36,7 @@
       <img src="assets/b27/FransiskusArnoldo.jpg" alt="Fransiskus Arnoldo" />
       <img src="assets/b27/ClaudiaBunari.jpg" alt="Claudia Bunari" />
       <img src="assets/b27/Fedric.jpg" alt="Fedric" />
+
       <img src="assets/b27/FarrelRio.jpg" alt="Farrel Rio" />
       <img src="assets/b27/Elsa.jpg" alt="Elsa" />
       <img src="assets/b27/Delen.jpg" alt="Delen" />
@@ -73,19 +58,43 @@
       <img src="assets/b27/Aaron.jpg" alt="Aaron" />
       <img src="assets/b27/Alvin.jpg" alt="Alvin" />
       <img src="assets/b27/Agnes.jpg" alt="Agnes" />
-    </div>
 
-    <dialog class="settings-modal">
-      <section>
-        <div class="colors"></div>
 
-        <textarea class="tier-label" placeholder="Tier label"></textarea>
 
-        <button id="delete">Delete Row</button>
-        <button id="clear">Clear Row</button>
-        <button id="prepend">Add a Row Above</button>
-        <button id="append">Add a Row Below</button>
-      </section>
-    </dialog>
-  </body>
-</html>
+      --------------------------------------------------------------------------------------
+      Hyakkano 
+
+
+      <img src="assets/hyakkano/baio.png" alt="Baio" />
+<img src="assets/hyakkano/chiyo.png" alt="Chiyo" />
+<img src="assets/hyakkano/eiai.png" alt="Eiai" />
+<img src="assets/hyakkano/hahari.png" alt="Hahari" />
+<img src="assets/hyakkano/hakari.png" alt="Hakari" />
+<img src="assets/hyakkano/hasuha.png" alt="Hasuha" />
+<img src="assets/hyakkano/hifumi.png" alt="Hifumi" />
+<img src="assets/hyakkano/himeka.png" alt="Himeka" />
+<img src="assets/hyakkano/iku.png" alt="Iku" />
+<img src="assets/hyakkano/inda.png" alt="Inda" />
+<img src="assets/hyakkano/kaho.png" alt="Kaho" />
+<img src="assets/hyakkano/kedarui.png" alt="Kedarui" />
+<img src="assets/hyakkano/kurumi.png" alt="Kurumi" />
+<img src="assets/hyakkano/kusuri.png" alt="Kusuri" />
+<img src="assets/hyakkano/maimedo.png" alt="Maimedo" />
+<img src="assets/hyakkano/matsuri.png" alt="Matsuri" />
+<img src="assets/hyakkano/meido.png" alt="Meido" />
+<img src="assets/hyakkano/meme.png" alt="Meme" />
+<img src="assets/hyakkano/mimimi.png" alt="Mimimi" />
+<img src="assets/hyakkano/momiji.png" alt="Momiji" />
+<img src="assets/hyakkano/momohana.png" alt="Momohana" />
+<img src="assets/hyakkano/nadeshiko.png" alt="Nadeshiko" />
+<img src="assets/hyakkano/nakaji.png" alt="Nakaji" />
+<img src="assets/hyakkano/nekonomiya.png" alt="Nekonomiya" />
+<img src="assets/hyakkano/nemui.png" alt="Nemui" />
+<img src="assets/hyakkano/shizuka.png" alt="Shizuka" />
+<img src="assets/hyakkano/tomogara.png" alt="Tomogara" />
+<img src="assets/hyakkano/torotoro.png" alt="Torotoro" />
+<img src="assets/hyakkano/usami.png" alt="Usami" />
+<img src="assets/hyakkano/yakuzen.png" alt="Yakuzen" />
+<img src="assets/hyakkano/yamame.png" alt="Yamame" />
+<img src="assets/hyakkano/zetsuboda.png" alt="Zetsuboda" />
+

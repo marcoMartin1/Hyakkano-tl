@@ -63,6 +63,8 @@ const handleDeleteTier = () => {
  }
 
 
+
+
  const handleAppendTier = () => { 
     console.log("handle append tier");
 
@@ -295,7 +297,7 @@ settingsModal.addEventListener("click" , (event)=>{
             delete: handleDeleteTier,
             clear: handleClearTier,
             prepend: handlePrependTier,
-            append: handleAppendTier
+            append: handleAppendTier,
         }
 
         //check if clicked element corresponds to a valid action
@@ -341,3 +343,9 @@ colorsContainer.addEventListener("change" , (event) =>{
 //kalo settings modalnya close reset tier active
 
 settingsModal.addEventListener("close" , ()=> activetier = null)
+
+
+
+
+
+
